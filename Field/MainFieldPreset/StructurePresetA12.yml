@@ -1,0 +1,13 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h StructurePresetA12:
+    !h 29ef254c:
+      - {!h 962fa959: !l 51, !h eceffa39: !l 73}
+      - {!h 962fa959: !l 77, !h eceffa39: !l 73}
+      - {!h 962fa959: !l 88, !h eceffa39: !l 73}
+      - {!h 962fa959: !l 50, !h eceffa39: !l 87}
+      - {!h 962fa959: !l 88, !h eceffa39: !l 88}
+      - {!h 962fa959: !l 77, !h eceffa39: !l 88}

@@ -1,0 +1,15 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h IdrMuseumFish_1:
+    !h c712ee99:
+      - !h 13ae8953: !l 18
+        !h 3d1976e3: !l 0
+        !h 696eda33: !l 42
+        !h mItemSaveParam: {!h mItemNameParam.u64: !l 72351}
+      - !h 13ae8953: !l 24
+        !h 3d1976e3: !l 0
+        !h 696eda33: !l 42
+        !h mItemSaveParam: {!h mItemNameParam.u64: !l 203423}

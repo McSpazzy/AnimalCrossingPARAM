@@ -1,0 +1,31 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h IdrMuseumFish_2:
+    !h c712ee99:
+      - !h 13ae8953: !l 40
+        !h 3d1976e3: !l 0
+        !h 696eda33: !l 13
+        !h mItemSaveParam: {!h mItemNameParam.u64: !l 137886}
+      - !h 13ae8953: !l 46
+        !h 3d1976e3: !l 0
+        !h 696eda33: !l 7
+        !h mItemSaveParam: {!h mItemNameParam.u64: !l 6823}
+      - !h 13ae8953: !l 55
+        !h 3d1976e3: !l 0
+        !h 696eda33: !l 9
+        !h mItemSaveParam: {!h mItemNameParam.u64: !l 6815}
+      - !h 13ae8953: !l 55
+        !h 3d1976e3: !l 0
+        !h 696eda33: !l 21
+        !h mItemSaveParam: {!h mItemNameParam.u64: !l 6815}
+      - !h 13ae8953: !l 55
+        !h 3d1976e3: !l 0
+        !h 696eda33: !l 28
+        !h mItemSaveParam: {!h mItemNameParam.u64: !l 6815}
+      - !h 13ae8953: !l 55
+        !h 3d1976e3: !l 0
+        !h 696eda33: !l 35
+        !h mItemSaveParam: {!h mItemNameParam.u64: !l 6815}
