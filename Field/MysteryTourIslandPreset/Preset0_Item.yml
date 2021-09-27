@@ -3,7 +3,7 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h bf781719:
+  !h Preset0_Item:
     !h c712ee99:
       - !h 13ae8953: !l 26
         !h 3d1976e3: !l 0
