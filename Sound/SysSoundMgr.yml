@@ -20,12 +20,12 @@ root:
       !h stereoJackOutputVolume.f32: 1.00000
       !h AalTvParams:
         !h interior[]:
-          - {!h rearSpeakerGain.f32: 1.00000, !h size.f32: 8.00000, !h bd310d18: Stereo, !h spreadMin.f32: 0.00000}
+          - {!h rearSpeakerGain.f32: 1.00000, !h size.f32: 8.00000, !h type.Enum: Stereo, !h spreadMin.f32: 0.00000}
         !h deviceVolume.f32: 1.00000
     !h appVolumeOnLibraryApplet.f32: -1.00000
     !h pauseFadeOutSec.f32: 0.10000
     !h pauseFadeInSec.f32: 0.20000
-    !h 935bc6e0: true
+    !h sceneFadeOutStop.bool: true
     !h pauseMuteOnSec.f32: 0.05000
     !h pauseVolume.f32: 0.30000
     !h sceneFadeOutSec.f32: 1.00000

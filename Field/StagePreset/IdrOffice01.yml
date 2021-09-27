@@ -5,19 +5,19 @@ HasReferenceNodes: False
 root:
   !h IdrOffice01:
     !h mItemList[]:
-      - !h 13ae8953: !l 27
+      - !h mHalfUnitZ.s32: !l 27
         !h mItemLayerID.u8: !l 0
-        !h 696eda33: !l 28
+        !h mHalfUnitX.s32: !l 28
         !h mItemSaveParam: {!h mItemNameParam.u64: !l 75189}
-      - !h 13ae8953: !l 27
+      - !h mHalfUnitZ.s32: !l 27
         !h mItemLayerID.u8: !l 0
-        !h 696eda33: !l 34
+        !h mHalfUnitX.s32: !l 34
         !h mItemSaveParam: {!h mItemNameParam.u64: !l 206261}
-      - !h 13ae8953: !l 33
+      - !h mHalfUnitZ.s32: !l 33
         !h mItemLayerID.u8: !l 0
-        !h 696eda33: !l 29
+        !h mHalfUnitX.s32: !l 29
         !h mItemSaveParam: {!h mItemNameParam.u64: !l 139894}
-      - !h 13ae8953: !l 33
+      - !h mHalfUnitZ.s32: !l 33
         !h mItemLayerID.u8: !l 0
-        !h 696eda33: !l 33
+        !h mHalfUnitX.s32: !l 33
         !h mItemSaveParam: {!h mItemNameParam.u64: !l 139894}

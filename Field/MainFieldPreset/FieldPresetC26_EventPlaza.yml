@@ -3,4 +3,4 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h FieldPresetC26_EventPlaza: {!h 35daede: !l 73, !h 799dfdbe: !l 87}
+  !h FieldPresetC26_EventPlaza: {!h mLeftUpZ.s32: !l 73, !h mLeftUpX.s32: !l 87}

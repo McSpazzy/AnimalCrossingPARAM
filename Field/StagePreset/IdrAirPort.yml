@@ -5,35 +5,35 @@ HasReferenceNodes: False
 root:
   !h IdrAirPort:
     !h mItemList[]:
-      - !h 13ae8953: !l 36
+      - !h mHalfUnitZ.s32: !l 36
         !h mItemLayerID.u8: !l 0
-        !h 696eda33: !l 25
+        !h mHalfUnitX.s32: !l 25
         !h mItemSaveParam: {!h mItemNameParam.u64: !l 203831}
-      - !h 13ae8953: !l 36
+      - !h mHalfUnitZ.s32: !l 36
         !h mItemLayerID.u8: !l 0
-        !h 696eda33: !l 27
+        !h mHalfUnitX.s32: !l 27
         !h mItemSaveParam: {!h mItemNameParam.u64: !l 72759}
-      - !h 13ae8953: !l 36
+      - !h mHalfUnitZ.s32: !l 36
         !h mItemLayerID.u8: !l 0
-        !h 696eda33: !l 35
+        !h mHalfUnitX.s32: !l 35
         !h mItemSaveParam: {!h mItemNameParam.u64: !l 203831}
-      - !h 13ae8953: !l 36
+      - !h mHalfUnitZ.s32: !l 36
         !h mItemLayerID.u8: !l 0
-        !h 696eda33: !l 37
+        !h mHalfUnitX.s32: !l 37
         !h mItemSaveParam: {!h mItemNameParam.u64: !l 72759}
-      - !h 13ae8953: !l 40
+      - !h mHalfUnitZ.s32: !l 40
         !h mItemLayerID.u8: !l 0
-        !h 696eda33: !l 25
+        !h mHalfUnitX.s32: !l 25
         !h mItemSaveParam: {!h mItemNameParam.u64: !l 203831}
-      - !h 13ae8953: !l 40
+      - !h mHalfUnitZ.s32: !l 40
         !h mItemLayerID.u8: !l 0
-        !h 696eda33: !l 27
+        !h mHalfUnitX.s32: !l 27
         !h mItemSaveParam: {!h mItemNameParam.u64: !l 72759}
-      - !h 13ae8953: !l 40
+      - !h mHalfUnitZ.s32: !l 40
         !h mItemLayerID.u8: !l 0
-        !h 696eda33: !l 35
+        !h mHalfUnitX.s32: !l 35
         !h mItemSaveParam: {!h mItemNameParam.u64: !l 203831}
-      - !h 13ae8953: !l 40
+      - !h mHalfUnitZ.s32: !l 40
         !h mItemLayerID.u8: !l 0
-        !h 696eda33: !l 37
+        !h mHalfUnitX.s32: !l 37
         !h mItemSaveParam: {!h mItemNameParam.u64: !l 72759}

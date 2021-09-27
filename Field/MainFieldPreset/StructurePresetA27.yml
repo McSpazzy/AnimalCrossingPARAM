@@ -5,9 +5,9 @@ HasReferenceNodes: False
 root:
   !h StructurePresetA27:
     !h mSiteList[]:
-      - {!h 962fa959: !l 68, !h eceffa39: !l 67}
-      - {!h 962fa959: !l 79, !h eceffa39: !l 73}
-      - {!h 962fa959: !l 90, !h eceffa39: !l 83}
-      - {!h 962fa959: !l 55, !h eceffa39: !l 84}
-      - {!h 962fa959: !l 44, !h eceffa39: !l 87}
-      - {!h 962fa959: !l 79, !h eceffa39: !l 88}
+      - {!h mUnitX.s32: !l 68, !h mUnitZ.s32: !l 67}
+      - {!h mUnitX.s32: !l 79, !h mUnitZ.s32: !l 73}
+      - {!h mUnitX.s32: !l 90, !h mUnitZ.s32: !l 83}
+      - {!h mUnitX.s32: !l 55, !h mUnitZ.s32: !l 84}
+      - {!h mUnitX.s32: !l 44, !h mUnitZ.s32: !l 87}
+      - {!h mUnitX.s32: !l 79, !h mUnitZ.s32: !l 88}

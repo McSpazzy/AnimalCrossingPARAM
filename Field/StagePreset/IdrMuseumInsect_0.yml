@@ -5,11 +5,11 @@ HasReferenceNodes: False
 root:
   !h IdrMuseumInsect_0:
     !h mItemList[]:
-      - !h 13ae8953: !l 0
+      - !h mHalfUnitZ.s32: !l 0
         !h mItemLayerID.u8: !l 0
-        !h 696eda33: !l 56
+        !h mHalfUnitX.s32: !l 56
         !h mItemSaveParam: {!h mItemNameParam.u64: !l 12112}
-      - !h 13ae8953: !l 43
+      - !h mHalfUnitZ.s32: !l 43
         !h mItemLayerID.u8: !l 0
-        !h 696eda33: !l 13
+        !h mHalfUnitX.s32: !l 13
         !h mItemSaveParam: {!h mItemNameParam.u64: !l 12112}
