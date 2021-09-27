@@ -3,29 +3,29 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h 72b151ac:
-    !h 18d43616: 0.05000
-    !h 2c8c6019: -1.00000
-    !h 46172f38:
-      !h 2abec0b0: 1.00000
+  !h SoundMgrParams:
+    !h pauseMuteOffSec.f32: 0.05000
+    !h sdkVolumeOnLibraryApplet.f32: -1.00000
+    !h AalParams:
+      !h buildInSpeakerOutputVolume.f32: 1.00000
       !h 2d00d38f:
         - 0.00000
         - 1.00000
       !h 3d5111b5:
         - 0.25000
         - 4.00000
-      !h 496e62f2: cOff
-      !h 6fe27b2: 1.00000
-      !h 9346da44: 0.50000
-      !h 9751abf: 1.00000
-      !h 9f47d876:
-        !h 120aa99:
-          - {!h 163cc23: 1.00000, !h 92b3cd99: 8.00000, !h bd310d18: Stereo, !h be1710b4: 0.00000}
-        !h 4e81906e: 1.00000
-    !h 6a110df: -1.00000
-    !h 849964a9: 0.10000
-    !h 8ac180ed: 0.20000
+      !h dopplerMode.Enum: cOff
+      !h masterVolume.f32: 1.00000
+      !h tvOutputVolume.f32: 0.50000
+      !h stereoJackOutputVolume.f32: 1.00000
+      !h AalTvParams:
+        !h interior[]:
+          - {!h rearSpeakerGain.f32: 1.00000, !h size.f32: 8.00000, !h bd310d18: Stereo, !h spreadMin.f32: 0.00000}
+        !h deviceVolume.f32: 1.00000
+    !h appVolumeOnLibraryApplet.f32: -1.00000
+    !h pauseFadeOutSec.f32: 0.10000
+    !h pauseFadeInSec.f32: 0.20000
     !h 935bc6e0: true
-    !h bffa548c: 0.05000
-    !h cea65c69: 0.30000
-    !h da276c39: 1.00000
+    !h pauseMuteOnSec.f32: 0.05000
+    !h pauseVolume.f32: 0.30000
+    !h sceneFadeOutSec.f32: 1.00000

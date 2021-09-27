@@ -4,8 +4,8 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h IdrMarket01:
-    !h c712ee99:
+    !h mItemList[]:
       - !h 13ae8953: !l 36
-        !h 3d1976e3: !l 0
+        !h mItemLayerID.u8: !l 0
         !h 696eda33: !l 24
         !h mItemSaveParam: {!h mItemNameParam.u64: !l 4794}
