@@ -1,0 +1,23 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h WherearenOffice_1:
+    !h mItemList[]:
+      - !h mHalfUnitZ.s32: !l 26
+        !h mItemLayerID.u8: !l 0
+        !h mHalfUnitX.s32: !l 29
+        !h mItemSaveParam: {!h mItemNameParam.u64: !l 14267}
+      - !h mHalfUnitZ.s32: !l 26
+        !h mItemLayerID.u8: !l 0
+        !h mHalfUnitX.s32: !l 33
+        !h mItemSaveParam: {!h mItemNameParam.u64: !l 14535}
+      - !h mHalfUnitZ.s32: !l 26
+        !h mItemLayerID.u8: !l 0
+        !h mHalfUnitX.s32: !l 37
+        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 12884909025}
+      - !h mHalfUnitZ.s32: !l 26
+        !h mItemLayerID.u8: !l 0
+        !h mHalfUnitX.s32: !l 39
+        !h mItemSaveParam: {!h mItemNameParam.u64: !l 14033}

@@ -1,0 +1,42 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h be226851:
+    !h 5a3a9961:
+      - {!h 78c97bce: !l 1, !h mUniqueID.u16: !l 29, !h mUnitX.s32: !l 56, !h mUnitZ.s32: !l 82}
+    !h 698ae035:
+      - {!h 78c97bce: !l 0, !h mUniqueID.u16: !l 9, !h mUnitX.s32: !l 106, !h mUnitZ.s32: !l 86}
+    !h caafbe5f:
+      - !l 44
+      - !l 43
+      - !l 43
+      - !l 43
+      - !l 43
+      - !l 45
+      - !l 46
+      - !l 257
+      - !l 262
+      - !l 263
+      - !l 264
+      - !l 48
+      - !l 46
+      - !l 258
+      - !l 0
+      - !l 0
+      - !l 266
+      - !l 48
+      - !l 46
+      - !l 259
+      - !l 267
+      - !l 260
+      - !l 261
+      - !l 48
+      - !l 50
+      - !l 51
+      - !l 51
+      - !l 51
+      - !l 51
+      - !l 52
+    !h e44dc126: !p 144

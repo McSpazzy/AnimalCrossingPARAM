@@ -1,0 +1,38 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h be226851:
+    !h 3557bf1a: null
+    !h 5a3a9961: null
+    !h 633086bf:
+      - {!h 4ade818c: !l 57, !h 8bd61aba: !l 34, !h mUnitX.s32: !l 80, !h 9bca0712: !l 14, !h mUnitZ.s32: !l 76}
+    !h 698ae035: null
+    !h caafbe5f:
+      - !l 44
+      - !l 43
+      - !l 43
+      - !l 43
+      - !l 45
+      - !l 46
+      - !l 272
+      - !l 275
+      - !l 271
+      - !l 48
+      - !l 46
+      - !l 276
+      - !l 278
+      - !l 270
+      - !l 48
+      - !l 46
+      - !l 273
+      - !l 274
+      - !l 269
+      - !l 48
+      - !l 50
+      - !l 51
+      - !l 51
+      - !l 51
+      - !l 52
+    !h e44dc126: !p 180
