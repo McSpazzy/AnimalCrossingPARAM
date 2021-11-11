@@ -3,7 +3,7 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h fd2c1b39:
+  !h Preset42_Item:
     !h mItemList[]:
       - !h mHalfUnitZ.s32: !l 26
         !h mItemLayerID.u8: !l 0

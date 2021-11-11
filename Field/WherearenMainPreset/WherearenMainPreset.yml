@@ -3,12 +3,12 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h be226851:
-    !h 5a3a9961:
-      - {!h 78c97bce: !l 1, !h mUniqueID.u16: !l 29, !h mUnitX.s32: !l 56, !h mUnitZ.s32: !l 82}
-    !h 698ae035:
-      - {!h 78c97bce: !l 0, !h mUniqueID.u16: !l 9, !h mUnitX.s32: !l 106, !h mUnitZ.s32: !l 86}
-    !h caafbe5f:
+  !h WherearenPreset:
+    !h mSlopeBuffer[]:
+      - {!h mAngle.u8: !l 1, !h mUniqueID.u16: !l 29, !h mUnitX.s32: !l 56, !h mUnitZ.s32: !l 82}
+    !h mBridgeBuffer[]:
+      - {!h mAngle.u8: !l 0, !h mUniqueID.u16: !l 9, !h mUnitX.s32: !l 106, !h mUnitZ.s32: !l 86}
+    !h mOutsideParts[].u16:
       - !l 44
       - !l 43
       - !l 43

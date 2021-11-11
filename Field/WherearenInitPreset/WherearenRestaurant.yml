@@ -3,8 +3,8 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h be226851:
-    !h 3557bf1a:
+  !h WherearenPreset:
+    !h mItemBuffer[]:
       - !h mHalfUnitZ.s32: !l 8
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 7
@@ -17,17 +17,17 @@ root:
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 11
         !h mItemSaveParam: {!h mItemNameParam.u64: !l 209604}
-    !h 81b87849:
-      !h 17c55ee8: !l 0
+    !h mRoomFloorWall:
+      !h mInfoBit.u8: !l 0
       !h mWall: {!h mItemNameParam.u64: !l 4890}
-      !h 4f74685b:
-        !h 23990470: !l 0
-        !h 295b3701: 1.00000
-        !h 33e9205e: !l 2
-        !h 62bc6e49: !l 3
-        !h 99e0e8d5: !l 1
-        !h aa3cad46: !l 5
-      !h 6b37e039: !l 16
-      !h a0e9ffac: !l 0
+      !h mExtra:
+        !h mLandingUniqueID.u16: !l 0
+        !h mDimmingPower.f32: 1.00000
+        !h mSizeX.u8: !l 2
+        !h mInfoBit.u16: !l 3
+        !h mSizeZ.u8: !l 1
+        !h mDimmingColor.u8: !l 5
+      !h mInfoBit2.u8: !l 16
+      !h mAccentWallDirection.s8: !l 0
       !h mFloor: {!h mItemNameParam.u64: !l 4971}
-      !h cf94c8c7: {!h mItemNameParam.u64: !l 4939}
+      !h mAccentWall: {!h mItemNameParam.u64: !l 4939}
