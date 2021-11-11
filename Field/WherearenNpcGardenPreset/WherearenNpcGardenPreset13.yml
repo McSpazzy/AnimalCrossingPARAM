@@ -8,891 +8,891 @@ root:
       - !h mHalfUnitZ.s32: !l 6
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 40
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 6
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 46
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 6
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 60
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 6
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 66
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 6
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 82
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 8
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 24
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 8
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 30
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 8
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 54
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 8
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 74
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 10
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 14
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 10
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 36
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 10
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 42
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 10
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 48
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 10
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 58
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 10
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 68
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 12
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 22
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 12
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 86
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 14
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 18
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 14
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 26
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 14
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 76
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 16
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 10
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 16
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 64
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 16
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 80
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 18
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 14
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 18
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 38
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 18
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 50
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 18
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 58
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 20
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 18
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 20
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 32
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 20
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 42
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 20
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 46
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 20
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 54
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 20
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 66
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 20
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 72
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 20
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 86
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 22
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 10
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 22
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 28
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 22
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 36
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 22
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 60
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 22
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 76
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 24
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 24
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 24
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 88
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 26
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 68
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 26
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 80
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 28
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 12
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 28
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 22
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 28
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 32
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 28
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 36
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 28
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 40
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 28
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 44
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 28
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 48
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 28
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 52
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 28
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 56
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 28
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 60
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 28
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 64
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 30
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 8
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 30
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 70
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 30
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 74
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 30
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 84
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 30
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 90
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 32
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 4
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 32
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 14
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 32
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 18
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 34
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 26
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 34
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 30
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 34
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 34
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 34
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 38
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 34
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 42
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 34
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 46
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 34
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 50
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 34
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 54
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 34
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 58
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 34
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 62
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 34
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 78
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 36
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 24
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 36
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 32
-        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 4295028038}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60742, UniqueID: 60742, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceGardenPegRope}}
       - !h mHalfUnitZ.s32: !l 36
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 34
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60742}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60742, UniqueID: 60742, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceGardenPegRope}}
       - !h mHalfUnitZ.s32: !l 36
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 36
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60742}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60742, UniqueID: 60742, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceGardenPegRope}}
       - !h mHalfUnitZ.s32: !l 36
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 38
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60742}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60742, UniqueID: 60742, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceGardenPegRope}}
       - !h mHalfUnitZ.s32: !l 36
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 40
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60742}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60742, UniqueID: 60742, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceGardenPegRope}}
       - !h mHalfUnitZ.s32: !l 36
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 42
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60742}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60742, UniqueID: 60742, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceGardenPegRope}}
       - !h mHalfUnitZ.s32: !l 36
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 44
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60742}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60742, UniqueID: 60742, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceGardenPegRope}}
       - !h mHalfUnitZ.s32: !l 36
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 46
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60742}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60742, UniqueID: 60742, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceGardenPegRope}}
       - !h mHalfUnitZ.s32: !l 36
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 48
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60742}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60742, UniqueID: 60742, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceGardenPegRope}}
       - !h mHalfUnitZ.s32: !l 36
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 50
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60742}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60742, UniqueID: 60742, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceGardenPegRope}}
       - !h mHalfUnitZ.s32: !l 36
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 52
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60742}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60742, UniqueID: 60742, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceGardenPegRope}}
       - !h mHalfUnitZ.s32: !l 36
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 54
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60742}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60742, UniqueID: 60742, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceGardenPegRope}}
       - !h mHalfUnitZ.s32: !l 36
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 56
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60742}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60742, UniqueID: 60742, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceGardenPegRope}}
       - !h mHalfUnitZ.s32: !l 36
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 58
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60742}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60742, UniqueID: 60742, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceGardenPegRope}}
       - !h mHalfUnitZ.s32: !l 36
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 60
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60742}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60742, UniqueID: 60742, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceGardenPegRope}}
       - !h mHalfUnitZ.s32: !l 36
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 62
-        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 4295028038}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60742, UniqueID: 60742, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceGardenPegRope}}
       - !h mHalfUnitZ.s32: !l 36
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 66
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 36
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 70
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 36
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 88
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 38
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 20
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 38
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 28
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 38
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 32
-        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 4295028038}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60742, UniqueID: 60742, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceGardenPegRope}}
       - !h mHalfUnitZ.s32: !l 38
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 62
-        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 4295028038}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60742, UniqueID: 60742, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceGardenPegRope}}
       - !h mHalfUnitZ.s32: !l 38
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 80
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 40
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 12
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 40
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 32
-        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 4295028038}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60742, UniqueID: 60742, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceGardenPegRope}}
       - !h mHalfUnitZ.s32: !l 40
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 62
-        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 4295028038}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60742, UniqueID: 60742, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceGardenPegRope}}
       - !h mHalfUnitZ.s32: !l 40
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 64
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 40
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 68
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 40
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 74
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 42
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 6
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 42
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 16
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 42
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 26
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 42
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 30
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 42
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 32
-        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 4295028038}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60742, UniqueID: 60742, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceGardenPegRope}}
       - !h mHalfUnitZ.s32: !l 42
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 36
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 42
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 62
-        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 4295028038}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60742, UniqueID: 60742, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceGardenPegRope}}
       - !h mHalfUnitZ.s32: !l 44
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 32
-        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 4295028038}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60742, UniqueID: 60742, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceGardenPegRope}}
       - !h mHalfUnitZ.s32: !l 44
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 62
-        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 4295028038}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60742, UniqueID: 60742, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceGardenPegRope}}
       - !h mHalfUnitZ.s32: !l 44
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 66
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 44
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 70
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 44
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 82
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 46
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 18
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 46
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 24
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 46
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 28
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 46
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 32
-        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 4295028038}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60742, UniqueID: 60742, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceGardenPegRope}}
       - !h mHalfUnitZ.s32: !l 46
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 62
-        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 4295028038}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60742, UniqueID: 60742, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceGardenPegRope}}
       - !h mHalfUnitZ.s32: !l 46
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 76
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 48
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 32
-        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 4295028038}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60742, UniqueID: 60742, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceGardenPegRope}}
       - !h mHalfUnitZ.s32: !l 48
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 62
-        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 4295028038}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60742, UniqueID: 60742, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceGardenPegRope}}
       - !h mHalfUnitZ.s32: !l 48
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 64
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 48
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 68
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 48
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 80
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 50
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 12
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 50
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 22
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 50
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 32
-        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 4295028038}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60742, UniqueID: 60742, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceGardenPegRope}}
       - !h mHalfUnitZ.s32: !l 50
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 62
-        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 4295028038}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60742, UniqueID: 60742, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceGardenPegRope}}
       - !h mHalfUnitZ.s32: !l 50
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 74
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 50
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 84
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 52
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 16
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 52
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 26
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 52
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 30
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 52
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 32
-        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 4295028038}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60742, UniqueID: 60742, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceGardenPegRope}}
       - !h mHalfUnitZ.s32: !l 52
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 62
-        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 4295028038}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60742, UniqueID: 60742, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceGardenPegRope}}
       - !h mHalfUnitZ.s32: !l 52
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 66
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 52
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 70
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 54
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 8
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 54
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 20
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 54
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 32
-        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 4295028038}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60742, UniqueID: 60742, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceGardenPegRope}}
       - !h mHalfUnitZ.s32: !l 54
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 58
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 54
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 62
-        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 4295028038}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60742, UniqueID: 60742, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceGardenPegRope}}
       - !h mHalfUnitZ.s32: !l 54
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 74
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 54
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 88
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 56
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 4
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 56
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 24
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 56
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 28
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 56
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 32
-        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 4295028038}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60742, UniqueID: 60742, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceGardenPegRope}}
       - !h mHalfUnitZ.s32: !l 56
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 36
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60374}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60374, UniqueID: 60374, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceLog}}
       - !h mHalfUnitZ.s32: !l 56
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 38
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60374}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60374, UniqueID: 60374, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceLog}}
       - !h mHalfUnitZ.s32: !l 56
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 40
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60374}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60374, UniqueID: 60374, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceLog}}
       - !h mHalfUnitZ.s32: !l 56
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 42
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60374}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60374, UniqueID: 60374, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceLog}}
       - !h mHalfUnitZ.s32: !l 56
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 52
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60374}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60374, UniqueID: 60374, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceLog}}
       - !h mHalfUnitZ.s32: !l 56
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 54
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60374}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60374, UniqueID: 60374, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceLog}}
       - !h mHalfUnitZ.s32: !l 56
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 56
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60374}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60374, UniqueID: 60374, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceLog}}
       - !h mHalfUnitZ.s32: !l 56
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 62
-        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 4295028038}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60742, UniqueID: 60742, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceGardenPegRope}}
       - !h mHalfUnitZ.s32: !l 56
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 64
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 56
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 68
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 56
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 78
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 56
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 92
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 58
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 32
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60742}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60742, UniqueID: 60742, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceGardenPegRope}}
       - !h mHalfUnitZ.s32: !l 58
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 34
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60742}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60742, UniqueID: 60742, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceGardenPegRope}}
       - !h mHalfUnitZ.s32: !l 58
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 36
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60742}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60742, UniqueID: 60742, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceGardenPegRope}}
       - !h mHalfUnitZ.s32: !l 58
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 38
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60742}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60742, UniqueID: 60742, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceGardenPegRope}}
       - !h mHalfUnitZ.s32: !l 58
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 40
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60742}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60742, UniqueID: 60742, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceGardenPegRope}}
       - !h mHalfUnitZ.s32: !l 58
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 42
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60742}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60742, UniqueID: 60742, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceGardenPegRope}}
       - !h mHalfUnitZ.s32: !l 58
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 44
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60742}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60742, UniqueID: 60742, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceGardenPegRope}}
       - !h mHalfUnitZ.s32: !l 58
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 50
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60742}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60742, UniqueID: 60742, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceGardenPegRope}}
       - !h mHalfUnitZ.s32: !l 58
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 52
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60742}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60742, UniqueID: 60742, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceGardenPegRope}}
       - !h mHalfUnitZ.s32: !l 58
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 54
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60742}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60742, UniqueID: 60742, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceGardenPegRope}}
       - !h mHalfUnitZ.s32: !l 58
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 56
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60742}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60742, UniqueID: 60742, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceGardenPegRope}}
       - !h mHalfUnitZ.s32: !l 58
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 58
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60742}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60742, UniqueID: 60742, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceGardenPegRope}}
       - !h mHalfUnitZ.s32: !l 58
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 60
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60742}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60742, UniqueID: 60742, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceGardenPegRope}}
       - !h mHalfUnitZ.s32: !l 58
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 62
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60742}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60742, UniqueID: 60742, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FenceGardenPegRope}}
       - !h mHalfUnitZ.s32: !l 58
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 84
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 60
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 12
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 60
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 18
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 60
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 26
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 60
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 66
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 60
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 76
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 60
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 88
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 62
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 30
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 62
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 70
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 62
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 82
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 62
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 92
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 64
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 6
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 64
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 24
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 64
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 64
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 66
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 14
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 66
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 20
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 66
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 28
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 66
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 66
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 66
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 74
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 66
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 86
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 68
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 8
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 68
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 32
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 68
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 36
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 68
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 58
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 68
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 70
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 68
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 78
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 70
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 26
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 70
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 40
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 70
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 54
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 70
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 62
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 70
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 84
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 72
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 12
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 72
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 18
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 72
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 30
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 74
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 24
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 74
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 34
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 74
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 60
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 74
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 66
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 74
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 74
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 76
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 28
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 76
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 38
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 76
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 56
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 78
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 16
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
       - !h mHalfUnitZ.s32: !l 80
         !h mItemLayerID.u8: !l 0
         !h mHalfUnitX.s32: !l 22
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 60009}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 60009, UniqueID: 60009, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PltTreeCedar4}}
     !h mSlopeBuffer[]: null
     !h mNpcHouseBuffer[]:
       - {!h mRoofUniqueID.u16: !l 57, !h mDoorUniqueID.u16: !l 34, !h mUnitX.s32: !l 80, !h mWallUniqueID.u16: !l 14, !h mUnitZ.s32: !l 76}
