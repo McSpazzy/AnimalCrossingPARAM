@@ -8,10 +8,10 @@ root:
     !h sdkVolumeOnLibraryApplet.f32: -1.00000
     !h AalParams:
       !h buildInSpeakerOutputVolume.f32: 1.00000
-      !h 2d00d38f:
+      !h envFxSendRange.Rangef:
         - 0.00000
         - 1.00000
-      !h 3d5111b5:
+      !h dopplerPitchRange.Rangef:
         - 0.25000
         - 4.00000
       !h dopplerMode.Enum: cOff
