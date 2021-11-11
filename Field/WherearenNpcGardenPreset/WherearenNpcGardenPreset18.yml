@@ -7,7 +7,7 @@ root:
     !h mItemBuffer[]: null
     !h mSlopeBuffer[]: null
     !h mNpcHouseBuffer[]:
-      - {!h mRoofUniqueID.u16: !l 57, !h mDoorUniqueID.u16: !l 34, !h mUnitX.s32: !l 78, !h FoodDynamicGathering: !l 14, !h mUnitZ.s32: !l 76}
+      - {!h mRoofUniqueID.u16: !l 57, !h mDoorUniqueID.u16: !l 34, !h mUnitX.s32: !l 78, !h mWallUniqueID.u16: !l 14, !h mUnitZ.s32: !l 76}
     !h mBridgeBuffer[]: null
     !h mOutsideParts[].u16:
       - !l 44

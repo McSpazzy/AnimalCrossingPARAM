@@ -13,7 +13,7 @@ root:
       - {!h mAngle.u8: !l 1, !h mUniqueID.u16: !l 29, !h mUnitX.s32: !l 84, !h mUnitZ.s32: !l 76}
       - {!h mAngle.u8: !l 1, !h mUniqueID.u16: !l 29, !h mUnitX.s32: !l 74, !h mUnitZ.s32: !l 92}
     !h mNpcHouseBuffer[]:
-      - {!h mRoofUniqueID.u16: !l 57, !h mDoorUniqueID.u16: !l 34, !h mUnitX.s32: !l 72, !h FoodDynamicGathering: !l 14, !h mUnitZ.s32: !l 74}
+      - {!h mRoofUniqueID.u16: !l 57, !h mDoorUniqueID.u16: !l 34, !h mUnitX.s32: !l 72, !h mWallUniqueID.u16: !l 14, !h mUnitZ.s32: !l 74}
     !h mBridgeBuffer[]: null
     !h mOutsideParts[].u16:
       - !l 44

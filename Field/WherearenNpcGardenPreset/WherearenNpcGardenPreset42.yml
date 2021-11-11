@@ -423,7 +423,7 @@ root:
         !h mItemSaveParam: {!h mItemNameParam.u64: !ul 4295028038}
     !h mSlopeBuffer[]: null
     !h mNpcHouseBuffer[]:
-      - {!h mRoofUniqueID.u16: !l 57, !h mDoorUniqueID.u16: !l 34, !h mUnitX.s32: !l 76, !h FoodDynamicGathering: !l 14, !h mUnitZ.s32: !l 74}
+      - {!h mRoofUniqueID.u16: !l 57, !h mDoorUniqueID.u16: !l 34, !h mUnitX.s32: !l 76, !h mWallUniqueID.u16: !l 14, !h mUnitZ.s32: !l 74}
     !h mBridgeBuffer[]: null
     !h mOutsideParts[].u16:
       - !l 44

@@ -196,7 +196,7 @@ root:
     !h mSlopeBuffer[]:
       - {!h mAngle.u8: !l 1, !h mUniqueID.u16: !l 29, !h mUnitX.s32: !l 92, !h mUnitZ.s32: !l 84}
     !h mNpcHouseBuffer[]:
-      - {!h mRoofUniqueID.u16: !l 57, !h mDoorUniqueID.u16: !l 34, !h mUnitX.s32: !l 86, !h FoodDynamicGathering: !l 14, !h mUnitZ.s32: !l 74}
+      - {!h mRoofUniqueID.u16: !l 57, !h mDoorUniqueID.u16: !l 34, !h mUnitX.s32: !l 86, !h mWallUniqueID.u16: !l 14, !h mUnitZ.s32: !l 74}
     !h mBridgeBuffer[]:
       - {!h mAngle.u8: !l 0, !h mUniqueID.u16: !l 14, !h mUnitX.s32: !l 75, !h mUnitZ.s32: !l 86}
     !h mOutsideParts[].u16:
